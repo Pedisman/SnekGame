@@ -1,0 +1,4 @@
+﻿  textFuncs.cpp
+c:\users\tim\documents\visual studio 2015\projects\snakegame\snakegame\square.h(45): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SnakeGame.vcxproj -> C:\Users\Tim\documents\visual studio 2015\Projects\SnakeGame\Debug\SnakeGame.exe
+  SnakeGame.vcxproj -> C:\Users\Tim\documents\visual studio 2015\Projects\SnakeGame\Debug\SnakeGame.pdb (Partial PDB)
